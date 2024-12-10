@@ -25,8 +25,9 @@ IT Lab API
     cd it-lab
     
 Запуск приложения:
-    docker-compose up --build
-   
+
+docker-compose up --build
+
 Приложение будет доступно по адресу: http://localhost:8000.
 
 Документация API
